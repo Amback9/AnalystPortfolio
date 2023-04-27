@@ -11,13 +11,15 @@ To run any code or analysis, you can clone this repository and follow the instru
 
 Technologies Used
 
-•	Python
-
 •	SQL
 
 •	Excel
 
 •	Power BI
+
+•	PowerPoint
+
+•	Python
 
 
 Contact Information
